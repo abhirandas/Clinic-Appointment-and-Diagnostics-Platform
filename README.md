@@ -125,6 +125,4 @@ It provides a **complete end-to-end flow** from booking an appointment to receiv
 ---
 
 ## 🖼️ ER Diagram
-
-```md
-![ER Diagram](./ER-diagram.png)
+[ER Diagram](./ER-diagram.png)
