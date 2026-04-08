@@ -89,7 +89,7 @@ Payment is completed
 
 Add your ER diagram image here
 
-![ER Diagram](./er-diagram.png)
+![ER Diagram](./ER-diagram.png)
 🚀 Future Improvements
 Add User Authentication (Admin/Doctor/Patient roles)
 Integrate Insurance Claims Processing
